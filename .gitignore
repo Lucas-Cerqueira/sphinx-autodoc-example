@@ -1,0 +1,5 @@
+.idea/
+
+/docs/build/
+
+my_package/__pycache__
