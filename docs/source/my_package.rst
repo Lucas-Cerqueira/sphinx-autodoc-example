@@ -1,22 +1,23 @@
-my\_package package
 ===================
-
-Submodules
-----------
-
-`my\_package.number\_operations` module
----------------------------------------
-
-.. automodule:: my_package.number_operations
-   :members:
-   :undoc-members:
-   :show-inheritance:
+API Reference
+===================
+Little description here...
 
 
-Module contents
----------------
+:mod:`my_package.base`: Base classes and utility functions
+==========================================================
+.. automodule:: my_package.base
+    :no-members:
+    :no-inherited-members:
 
-.. automodule:: my_package
-   :members:
-   :undoc-members:
-   :show-inheritance:
+.. currentmodule:: my_package
+
+.. autosummary::
+    :toctree: generated/
+
+    base.Vehicle
+    base.clone
+
+..
+    .. autoclass:: my_package.base.Vehicle
+    .. py:function:: my_package.base.clone

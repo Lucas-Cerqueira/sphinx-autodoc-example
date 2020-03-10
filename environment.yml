@@ -1,0 +1,55 @@
+name: sphinx-autodoc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=4.5
+  - alabaster=0.7.12
+  - babel=2.8.0
+  - ca-certificates=2019.11.28
+  - certifi=2019.11.28
+  - cffi=1.14.0
+  - chardet=3.0.4
+  - cryptography=2.8
+  - docutils=0.16
+  - idna=2.9
+  - imagesize=1.2.0
+  - jinja2=2.11.1
+  - ld_impl_linux-64=2.33.1
+  - libffi=3.2.1
+  - libgcc-ng=9.2.0
+  - libgomp=9.2.0
+  - libstdcxx-ng=9.2.0
+  - markupsafe=1.1.1
+  - ncurses=6.1
+  - openssl=1.1.1d
+  - packaging=20.1
+  - pip=20.0.2
+  - pycparser=2.20
+  - pygments=2.6.1
+  - pyopenssl=19.1.0
+  - pyparsing=2.4.6
+  - pysocks=1.7.1
+  - python=3.7.6
+  - python_abi=3.7
+  - pytz=2019.3
+  - readline=8.0
+  - requests=2.23.0
+  - setuptools=46.0.0
+  - six=1.14.0
+  - snowballstemmer=2.0.0
+  - sphinx=2.4.4
+  - sphinxcontrib-applehelp=1.0.2
+  - sphinxcontrib-devhelp=1.0.2
+  - sphinxcontrib-htmlhelp=1.0.3
+  - sphinxcontrib-jsmath=1.0.1
+  - sphinxcontrib-qthelp=1.0.3
+  - sphinxcontrib-serializinghtml=1.1.4
+  - sqlite=3.30.1
+  - tk=8.6.10
+  - urllib3=1.25.7
+  - wheel=0.34.2
+  - xz=5.2.4
+  - zlib=1.2.11
+
