@@ -4,20 +4,29 @@ API Reference
 Little description here...
 
 
-:mod:`my_package.base`: Base classes and utility functions
+:mod:`pypackage.base`: Base classes and utility functions
 ==========================================================
-.. automodule:: my_package.base
+.. automodule:: pypackage.base
     :no-members:
     :no-inherited-members:
 
-.. currentmodule:: my_package
+.. currentmodule:: pypackage
 
 .. autosummary::
     :toctree: generated/
 
-    base.Vehicle
+    base.BaseClass
     base.clone
 
-..
-    .. autoclass:: my_package.base.Vehicle
-    .. py:function:: my_package.base.clone
+:mod:`pypackage.my_module`: My custom module
+==========================================================
+.. automodule:: pypackage.my_module
+    :no-members:
+    :no-inherited-members:
+
+.. currentmodule:: pypackage
+
+.. autosummary::
+    :toctree: generated/
+
+    my_module.MyClass

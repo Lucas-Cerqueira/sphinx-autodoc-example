@@ -3,4 +3,5 @@
 docs/build/
 docs/source/generated/
 
-my_package/__pycache__
+pypackage/__pycache__
+pypackage/my_module/__pycache__
