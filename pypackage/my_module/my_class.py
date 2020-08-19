@@ -1,5 +1,6 @@
 from ..base import BaseClass
 
+
 class MyClass(BaseClass):
     """My custom class.
 

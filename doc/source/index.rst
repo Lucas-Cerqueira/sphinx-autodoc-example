@@ -1,15 +1,13 @@
-Welcome to My Package's documentation!
+Table of contents
 ======================================
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
 
+    reference
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search`
-
 

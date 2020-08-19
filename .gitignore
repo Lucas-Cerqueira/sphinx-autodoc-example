@@ -1,7 +1,7 @@
 .idea/
 
-docs/build/
-docs/source/generated/
+doc/build/
+doc/source/generated/
 
 pypackage/__pycache__
 pypackage/my_module/__pycache__

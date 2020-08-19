@@ -1,8 +1,3 @@
-"""
-Defines the base class.
-"""
-
-
 class BaseClass:
     """Base class.
 
@@ -28,9 +23,8 @@ class BaseClass:
         return self.x ** 2
 
 
-
 def clone(base_obj):
-    """Clones a `BaseClass` instance and returns the copy.
+    """Clone a `BaseClass` instance and return the copy.
 
     Parameters
     ----------
